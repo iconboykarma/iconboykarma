@@ -1,21 +1,21 @@
-<h1>Hi, I'm Worship Takudzwa! <br/><a href="https://github.com/joshmadakor1">Penetration Tester</a>, <a href="https://www.linkedin.com/in/worship-matangadzi/"> Junior Cybersecurity Analyst</a>, <a href="https://www.youtube.com/getintocybersec">YouTuber</a></h1>
+<h1>Hi, I'm Worship Takudzwa! <br/><a href="https://www.linkedin.com/in/worship-matangadzi/"> Junior Cybersecurity Analyst</a>,<a href="https://github.com/joshmadakor1">Bug Bounty</a>,  <a href="https://www.tiktok.com/getintocybersec">Tiktoker</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory </b>
   - [Active Directory Home Labs](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Incidence response (Threat hunting, Vulnerability Scanning & Threat intelligence)</b>
-  - [Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Threat Intelligence](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Vulnerability Scanning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(CTFs)</b></i>
+  - [Threat Intelligence](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(NIST & OWASP)</b></i>
+  - [Vulnerability Scanning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i>
+  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Cuckoo)</b></i>
 
-- <b>Programming & Scripting (Python & Bash):</b>
+- <b>Programming & Scripting (Python & Bash)</b>
   - [Python)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Bash](https://github.com/joshmadakor1/DecrypterPOC)
 
-- <b>PowerShell:</b>
+- <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
