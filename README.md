@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Active Directory </b>
-  - [Active Directory Home Labs](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Labs](https://github.com/iconboykarma/ActiveDirectoryLab)
 - <b>Incidence response (Threat hunting, Vulnerability Scanning & Threat intelligence)</b>
   - [Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(CTFs)</b></i>
   - [Threat Intelligence](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(NIST & OWASP)</b></i>
