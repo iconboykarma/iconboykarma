@@ -21,7 +21,8 @@
 <h2>Certifications</h2>
 
 - [CompTIA Security+ (SY0-601)](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [(ISC)2 Certied in CyberSecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Intro to IT & Cybersecurity)](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [(ISC)2 Certified in CyberSecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Penetration Testing, Incidence response & Forensics)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Cybersecurity Roles, Processes & OS Security)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Security Operations Fundamentals (Palo Alto)](https://www.youtube.com/watch?v=E2MwRWxDBkA)
