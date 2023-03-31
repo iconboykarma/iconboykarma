@@ -1,4 +1,4 @@
-<h1>Hi, I'm Worship Takudzwa! <br/><a href="https://www.linkedin.com/in/worship-matangadzi/"> Junior Cybersecurity Analyst</a>,<a href="https://github.com/joshmadakor1">Bug Bounty</a>,  <a href="https://www.tiktok.com/getintocybersec">Tiktoker</a></h1>
+<h1>Hi, I'm Worship Takudzwa! <br/><a href="https://www.linkedin.com/in/worship-matangadzi/"> Cybersecurity Analyst</a>,<a href="https://github.com/joshmadakor1">Bug Bounty</a>,  <a href="https://www.tiktok.com/getintocybersec">Tiktoker</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
@@ -37,13 +37,13 @@
 - [Access Management](https://www.youtube.com/watch?v=N-L9hklSlNk)
 
 
-<h2>📺 Popular YouTube Videos:</h2>
+<h2>📺 Popular TikTok Videos:</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to register for the (ISC)2 Exam](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [How to get into Cybersecurity Starting From Zero](https://www.tiktok.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.tiktok.com/watch?v=uHy3oM7NnoU)
+- [How to register for the (ISC)2 Exam](https://www.tiktok.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.tiktok.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.tiktok.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Connect with me:</h2>
 
