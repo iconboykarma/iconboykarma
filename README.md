@@ -4,20 +4,25 @@
 
 - <b>Active Directory </b>
   - [Active Directory Home Labs](https://github.com/iconboykarma/ActiveDirectoryLab)
-- <b>Incidence response (Threat hunting, Vulnerability Scanning & Threat intelligence)</b>
+  - [Alerts Everywhere](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i
+  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Cuckoo)</b></i>
+
+
+- <b>Vulnerabilty Management</b>
   - [Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(CTFs)</b></i>
   - [Threat Intelligence](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(NIST & OWASP)</b></i>
   - [Vulnerability Scanning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i>
+
+- <b>File Integrity Monitor</b>
+  - [Hashing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(CTFs)</b></i>
+  - [Powershell script](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(NIST & OWASP)</b></i>
+  - [Alerts Everywhere](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i
   - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Cuckoo)</b></i>
 
-- <b>Programming & Scripting (Python & Bash)</b>
+- <b>Programming & Scripting (Python, Bash & PowerShell)</b>
   - [Python)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Bash](https://github.com/joshmadakor1/DecrypterPOC)
-
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Bash](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [PowerShell](https://github.com/joshmadakor1/DecrypterPOC)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
