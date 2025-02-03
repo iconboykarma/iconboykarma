@@ -1,78 +1,48 @@
-<h1>Hi, I'm Worship Takudzwa! <br/><a href="https://www.linkedin.com/in/worship-matangadzi/"> Cybersecurity Analyst</a>,<a href="https://github.com/joshmadakor1">Bug Bounty</a>,  <a href="https://www.tiktok.com/getintocybersec">Tiktoker</a></h1>
+<h1>Hi, I'm Takudzwa! <br/><a href="https://www.linkedin.com/in/worship-matangadzi/"> AI Consultant</a>,<a href="https://github.com/iconboykarma"> AI Educator</a>,  <a href="https://www.youtube.com/@SmartChatz">Content Creator</a></h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>🚀 AI Projects & Initiatives:</h2>
 
-- <b>Active Directory </b>
-  - [Active Directory Home Labs](https://github.com/iconboykarma/ActiveDirectoryLab)
-  - [Alerts Everywhere](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i
-  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Cuckoo)</b></i>
+- <b>AI Solutions for African Businesses</b>
+  - [AI Readiness Assessment Tool](https://github.com/iconboykarma/AI-Readiness-Assessment)
+  - [Custom GPT Assistants](https://github.com/iconboykarma/Custom-GPT-Bots)
+  - [AI Automation with n8n](https://github.com/iconboykarma/n8n-Automation)
+  
+- <b>AI Education & Content</b>
+  - [Fundai Africa - AI Learning Hub](https://github.com/iconboykarma/Fundai-Africa)
+  - [YouTube AI Tutorials](https://www.youtube.com/@SmartChatz)
+  - [AI Newsletter on ConvertKit](https://smartchatz.substack.com/)
+  
+- <b>AI Research & Development</b>
+  - [Open-Source LLM Comparisons (DeepSeek, Mistral, Llama)](https://github.com/iconboykarma/LLM-Benchmarks)
+  - [AI-Powered Business Automation](https://github.com/iconboykarma/AI-Business-Tools)
 
+<h2>🎓 AI Certifications & Training:</h2>
 
-- <b>Vulnerabilty Management</b>
-  - [Threat Hunting](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(CTFs)</b></i>
-  - [Threat Intelligence](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(NIST & OWASP)</b></i>
-  - [Vulnerability Scanning](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i>
+- [Deep Learning Specialization - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+- [AI for Business - Wharton Online](https://executiveeducation.wharton.upenn.edu/ai-for-business/)
+- [Generative AI with Large Language Models - DeepLearning.AI](https://www.deeplearning.ai/courses/generative-ai-with-llms/)
+- [AI Ethics & Governance - MIT Sloan](https://executive.mit.edu/course/ai-ethics-and-governance/)
 
-- <b>File Integrity Monitor</b>
-  - [Hashing](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(CTFs)</b></i>
-  - [Powershell script](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(NIST & OWASP)</b></i>
-  - [Alerts Everywhere](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Nessus)</b></i
-  - [Malware Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Cuckoo)</b></i>
+<h2>📺 Latest YouTube Videos:</h2>
 
-- <b>Programming & Scripting (Python, Bash & PowerShell)</b>
-  - [Python)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Bash](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [PowerShell](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- [How African Businesses Can Use AI Today](https://www.youtube.com/watch?v=xyz123)
+- [DeepSeek vs OpenAI - AI for Business Decision Making](https://www.youtube.com/watch?v=xyz456)
+- [Automating Business Processes with AI](https://www.youtube.com/watch?v=xyz789)
 
-<h2>Certifications:</h2>
+<h2>🤝 Work with Me:</h2>
 
-- [CompTIA Security+ (SY0-601)](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Intro to IT & Cybersecurity)](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [(ISC)2 Certified in CyberSecurity](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Penetration Testing, Incidence response & Forensics)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Cybersecurity Roles, Processes & OS Security)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Security Operations Fundamentals (Palo Alto)](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2>📺 WhatsApp Group Management:</h2>
-
-- [Group Description](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Success Stories](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Access Management](https://www.youtube.com/watch?v=N-L9hklSlNk)
-
-
-<h2>📺 Popular TikTok Videos:</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.tiktok.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.tiktok.com/watch?v=uHy3oM7NnoU)
-- [How to register for the (ISC)2 Exam](https://www.tiktok.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.tiktok.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.tiktok.com/watch?v=E2MwRWxDBkA)
+- AI Consulting & Strategy
+- Custom AI Development
+- AI Training & Workshops
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="iconboykarma | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="iconboykarma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="iconboykarma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="iconboykarma| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="iconboykarma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/iconboykarma
-[youtube]: https://www.youtube.com/getintocybersec
+[youtube]: https://www.youtube.com/@SmartChatz
 [instagram]: https://www.instagram.com/iconboykarma/
 [linkedin]: https://linkedin.com/in/worship-matangadzi
-
-<!--
-**iconboykarma/iconboykarma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
