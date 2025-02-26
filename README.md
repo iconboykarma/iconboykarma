@@ -9,8 +9,8 @@
   
 - <b>AI Education & Content</b>
   - [Fundai Africa - AI Learning Hub](https://github.com/iconboykarma/Fundai-Africa)
-  - [YouTube AI Tutorials](https://www.youtube.com/@SmartChatz)
-  - [AI Newsletter on ConvertKit](https://smartchatz.substack.com/)
+  - [YouTube AI Tutorials](https://www.youtube.com/@startupTakudzwa)
+  - [AI Newsletter on ConvertKit](https://aiforafrica.kit.com/)
   
 - <b>AI Research & Development</b>
   - [Open-Source LLM Comparisons (DeepSeek, Mistral, Llama)](https://github.com/iconboykarma/LLM-Benchmarks)
